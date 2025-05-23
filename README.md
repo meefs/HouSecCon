@@ -87,8 +87,8 @@ This document contains the complete sponsor list for [HOU.SEC.CON.](https://hous
 
 ---
 
-**About HOU.SEC.CON. 2024**
+**About HOU.SEC.CON.**
 
-HOU.SEC.CON. 2024 was Houston's premier cybersecurity conference, bringing together cybersecurity professionals from across the region. The event featured multiple sponsorship tiers supporting various aspects of the conference experience.
+HOU.SEC.CON. 2024 is Houston's premier cybersecurity conference, bringing together over 2,500 cybersecurity professionals annually. Since 2010, this conference has been connecting the cybersecurity community through insightful sessions, networking opportunities, and industry partnerships.
 
-For more information about current events, visit [houstonseccon.com](https://houstonseccon.com).
+For more information, visit [houstonseccon.com](https://houstonseccon.com).
