@@ -1,4 +1,4 @@
-# HouSecCon Sponsors
+# HouSecCon 2025 Sponsors
 
 This document contains the complete sponsor list for [HOU.SEC.CON.](https://houstonseccon.com) Houston's premier cybersecurity conference.
 
@@ -80,6 +80,6 @@ This document contains the complete sponsor list for [HOU.SEC.CON.](https://hous
 
 **About HOU.SEC.CON.**
 
-HOU.SEC.CON. is Houston's premier cybersecurity conference, bringing together over 2,500 cybersecurity professionals annually. Since 2010, this conference has been connecting the cybersecurity community through insightful sessions, networking opportunities, and industry partnerships.
+HOU.SEC.CON. 2025 is Houston's premier cybersecurity conference, bringing together over 2,500 cybersecurity professionals annually. Since 2010, this conference has been connecting the cybersecurity community through insightful sessions, networking opportunities, and industry partnerships.
 
 For more information, visit [houstonseccon.com](https://houstonseccon.com).
