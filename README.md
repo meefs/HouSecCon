@@ -1,6 +1,6 @@
 # HouSecCon Sponsors
 
-This document contains the complete sponsor list for HOU.SEC.CON., Houston's premier cybersecurity conference.
+This document contains the complete sponsor list for [HOU.SEC.CON.](https://houstonseccon.com) Houston's premier cybersecurity conference.
 
 ## Anchor Sponsors
 
